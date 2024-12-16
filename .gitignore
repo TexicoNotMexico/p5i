@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+*.otf
+public/ihanaioyakusoku_lyrics.txt
+public/ihanaivo.wav

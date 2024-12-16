@@ -1,6 +1,16 @@
 import * as constants from "./constants";
+import * as fonts from "./fonts";
+import * as audio from "./audio";
+import * as control from "./control";
+import * as time from "./time";
+import * as data from "./data";
+import * as components from "./components";
 
-export const preload = () => {};
+export const preload = () => {
+    fonts.fontPreload();
+    audio.preload();
+    data.preload();
+};
 
 export const resize = () => {
     const canvas = document.querySelector("canvas") as HTMLCanvasElement;
@@ -13,16 +23,36 @@ export const resize = () => {
 
 export const setup = () => {
     p.createCanvas(constants.canvasWidth, constants.canvasHeight, p.WEBGL);
-    p.pixelDensity(1);
+    // p.pixelDensity(1);
     p.frameRate(constants.frameRate);
+
+    data.setup();
+    control.setup();
+
+    fonts.setLyricFont();
 
     resize();
 };
 
 export const draw = () => {
-    p.background(0);
-    p.push();
-    p.fill(255);
-    p.rect(0, 0, 100, 100);
-    p.pop();
+    p.background(255);
+
+    // p.push();
+    // {
+    //     p.fill(0);
+    //     p.textAlign(p.CENTER, p.CENTER);
+    //     p.textSize(50);
+    //     p.text(`${p.floor(time.currentTime() * (constants.bpm / 60))}`, 0, -300);
+    // }
+    // p.pop();
+
+    data.items
+        .filter((item) => {
+            const beatDuration = 60 / constants.bpm;
+            return time.currentTime() >= item.start * beatDuration;
+        })
+        .forEach((item, idx, arr) => {
+            components.draw(item, idx, arr);
+            components.filters(item, idx, arr);
+        });
 };
