@@ -47,12 +47,12 @@ export const draw = (item: Item, idx: number, arr: Item[]) => {
             p.push();
             {
                 p.fill(200);
-                p.rect(
+                /* p.rect(
                     0,
                     -(constants.canvasWidth / 12 / 2),
                     (constants.canvasWidth / 4) * item.end,
                     constants.canvasWidth / 12 / 2
-                );
+                ); */
             }
             p.pop();
         }
