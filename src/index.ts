@@ -23,8 +23,9 @@ export const resize = () => {
 
 export const setup = () => {
     p.createCanvas(constants.canvasWidth, constants.canvasHeight, p.WEBGL);
-    // p.pixelDensity(1);
-    p.frameRate(constants.frameRate);
+    p.pixelDensity(1);
+    p.noSmooth();
+    p.frameRate(constants.framerate);
 
     data.setup();
     control.setup();
@@ -52,7 +53,10 @@ export const draw = () => {
             return time.currentTime() >= item.start * beatDuration;
         })
         .forEach((item, idx, arr) => {
-            components.draw(item, idx, arr);
+            components.draw(item, idx, arr, 0);
+            if ((item.start % 4) + item.end > 4.00001) {
+                components.draw(item, idx, arr, p.floor((item.start % 4) + item.end) / 4);
+            }
             components.filters(item, idx, arr);
         });
 };
