@@ -23,6 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+!public/NotoSansJP-Bold.otf
+!public/NotoSansJP-Medium.otf
 *.otf
 public/ihanaioyakusoku_lyrics.txt
 public/ihanaivo.wav

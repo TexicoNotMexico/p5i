@@ -6,8 +6,8 @@ export let lyricFont: p5.Font;
 export let rubyFont: p5.Font;
 
 export const fontPreload = () => {
-    lyricFont = p.loadFont("NotoSansJP-Medium.otf"); // p.loadFont("TenMinchoAntique-Medium.otf");
-    rubyFont = p.loadFont("NotoSerifJP-Regular.otf"); // p.loadFont("TenMinchoAntique-Light.otf");
+    lyricFont = p.loadFont("NotoSansJP-Medium.ttf"); // p.loadFont("TenMinchoAntique-Medium.otf");
+    rubyFont = p.loadFont("NotoSerifJP-Regular.ttf"); // p.loadFont("TenMinchoAntique-Light.otf");
 };
 
 export const setLyricFont = () => {
