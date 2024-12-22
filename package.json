@@ -1,14 +1,16 @@
 {
-    "name": "p5vite",
+    "name": "p5i",
     "private": true,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
         "dev": "vite --host",
         "build": "tsc && vite build",
+        "deploy": "gh-pages -d dist",
         "preview": "vite preview"
     },
     "devDependencies": {
+        "gh-pages": "^6.2.0",
         "typescript": "^5.5.3",
         "vite": "^5.4.8"
     },
