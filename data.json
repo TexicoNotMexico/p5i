@@ -1,0 +1,5508 @@
+{
+    "notes": [
+        {
+            "start": 16.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "無",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 17,
+            "end": 0.3333333333333333,
+            "lyric": "難",
+            "furigana": "な",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 17.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "難",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 17.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 18,
+            "end": 0.3333333333333333,
+            "lyric": "角",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 18.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "角",
+            "furigana": "ど",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 18.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 19,
+            "end": 0.3333333333333333,
+            "lyric": "立",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 19.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 19.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "ぬ",
+            "furigana": "ぬ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 20,
+            "end": 0.3333333333333333,
+            "lyric": "様",
+            "furigana": "よ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 20.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "様",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 21,
+            "end": 0.3333333333333333,
+            "lyric": "揶",
+            "furigana": "や",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 21.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "揄",
+            "furigana": "ゆ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 21.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "黙",
+            "furigana": "だ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 22,
+            "end": 0.3333333333333333,
+            "lyric": "黙",
+            "furigana": "ま",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 22.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 22.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 23,
+            "end": 0.6666666666666666,
+            "lyric": "よ",
+            "furigana": "よ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 23.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 24,
+            "end": 0.3333333333333333,
+            "lyric": "ぜ",
+            "furigana": "ぜ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 24.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "埋",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 25,
+            "end": 0.3333333333333333,
+            "lyric": "ま",
+            "furigana": "ま",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 25.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 25.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 26,
+            "end": 0.3333333333333333,
+            "lyric": "ブ",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 26.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "ラ",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 26.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "ン",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 27,
+            "end": 0.3333333333333333,
+            "lyric": "ド",
+            "furigana": "ど",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 27.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "育",
+            "furigana": "そ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 28,
+            "end": 0.3333333333333333,
+            "lyric": "育",
+            "furigana": "だ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 28.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 28.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 29,
+            "end": 0.3333333333333333,
+            "lyric": "覚",
+            "furigana": "お",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 29.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "覚",
+            "furigana": "ぼ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 29.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 30,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 30.333333333333332,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 31,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 31.666666666666668,
+            "end": 0.3333333333333333,
+            "lyric": "マ",
+            "furigana": "ま",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 32,
+            "end": 0.3333333333333333,
+            "lyric": "ナ",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 32.333333333333336,
+            "end": 0.6666666666666666,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 34,
+            "end": 0.3333333333333333,
+            "lyric": "ネ",
+            "furigana": "ね",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 34.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "ッ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 35,
+            "end": 0.3333333333333333,
+            "lyric": "ト",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 35.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "を",
+            "furigana": "を",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 35.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "絶",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 36,
+            "end": 0.3333333333333333,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 37,
+            "end": 0.3333333333333333,
+            "lyric": "ず",
+            "furigana": "ず",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 37.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "照",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 38,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 38.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "す",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 39,
+            "end": 0.3333333333333333,
+            "lyric": "ラ",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 39.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "ン",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 39.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "プ",
+            "furigana": "ぷ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 40,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 41,
+            "end": 0.3333333333333333,
+            "lyric": "我",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 41.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 41.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "歪",
+            "furigana": "ゆ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 42,
+            "end": 0.3333333333333333,
+            "lyric": "歪",
+            "furigana": "が",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 42.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "ん",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 42.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 43,
+            "end": 0.3333333333333333,
+            "lyric": "正",
+            "furigana": "た",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 43.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "正",
+            "furigana": "だ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 43.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "さ",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 44,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 44.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 45,
+            "end": 0.3333333333333333,
+            "lyric": "丸",
+            "furigana": "ま",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 45.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "丸",
+            "furigana": "る",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 45.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "く",
+            "furigana": "く",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 46,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 46.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 46.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 47,
+            "end": 0.6666666666666666,
+            "lyric": "く",
+            "furigana": "く",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 48.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "荒",
+            "furigana": "す",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 49,
+            "end": 0.3333333333333333,
+            "lyric": "荒",
+            "furigana": "さ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 49.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "ん",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 49.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "だ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 50,
+            "end": 0.3333333333333333,
+            "lyric": "欲",
+            "furigana": "よ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 50.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "欲",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 50.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 51,
+            "end": 0.3333333333333333,
+            "lyric": "飛",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 51.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "ん",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 51.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "だ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 52,
+            "end": 0.3333333333333333,
+            "lyric": "問",
+            "furigana": "も",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 52.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "問",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 52.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 53,
+            "end": 0.6666666666666666,
+            "lyric": "反",
+            "furigana": "は",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 53.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "反",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 54,
+            "end": 0.3333333333333333,
+            "lyric": "論",
+            "furigana": "ろ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 54.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "論",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 55,
+            "end": 0.6666666666666666,
+            "lyric": "型",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 55.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "型",
+            "furigana": "た",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 56,
+            "end": 0.3333333333333333,
+            "lyric": "取",
+            "furigana": "ど",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 56.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 56.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 57.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "発",
+            "furigana": "は",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 57.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "発",
+            "furigana": "つ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 58,
+            "end": 0.3333333333333333,
+            "lyric": "言",
+            "furigana": "げ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 58.333333333333336,
+            "end": 0.3333333333333333,
+            "lyric": "言",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 58.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 59.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "延",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 60,
+            "end": 0.6666666666666666,
+            "lyric": "べ",
+            "furigana": "べ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 60.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "棒",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 61,
+            "end": 0.3333333333333333,
+            "lyric": "棒",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 61.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "溶",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 62,
+            "end": 0.6666666666666666,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 62.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "す",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 63,
+            "end": 0.6666666666666666,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 63.666666666666664,
+            "end": 0.3333333333333333,
+            "lyric": "燃",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 64,
+            "end": 0.6666666666666666,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 64.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 65,
+            "end": 0.6666666666666666,
+            "lyric": "想",
+            "furigana": "そ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 65.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "想",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 66,
+            "end": 0.3333333333333333,
+            "lyric": "像",
+            "furigana": "ぞ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 66.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "像",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 66.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 67.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ボ",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 68,
+            "end": 1.6666666666666667,
+            "lyric": "ロ",
+            "furigana": "ろ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 69.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ボ",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 70,
+            "end": 1,
+            "lyric": "ロ",
+            "furigana": "ろ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 71,
+            "end": 0.6666666666666666,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 71.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "思",
+            "furigana": "お",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 72,
+            "end": 0.6666666666666666,
+            "lyric": "思",
+            "furigana": "も",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 72.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 73,
+            "end": 0.6666666666666666,
+            "lyric": "本",
+            "furigana": "ほ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 73.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "本",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 74,
+            "end": 0.3333333333333333,
+            "lyric": "望",
+            "furigana": "も",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 74.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "望",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 74.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 75.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ド",
+            "furigana": "ど",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 76,
+            "end": 1,
+            "lyric": "ロ",
+            "furigana": "ろ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 77.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ド",
+            "furigana": "ど",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 78,
+            "end": 1,
+            "lyric": "ロ",
+            "furigana": "ろ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 79,
+            "end": 0.3333333333333333,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 84,
+            "end": 0.3333333333333333,
+            "lyric": "語",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 84.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "語",
+            "furigana": "た",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 84.66666666666667,
+            "end": 0.16666666666666666,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 84.83333333333333,
+            "end": 0.16666666666666666,
+            "lyric": "全",
+            "furigana": "す",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 85,
+            "end": 0.3333333333333333,
+            "lyric": "全",
+            "furigana": "べ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 85.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 85.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "が",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 86,
+            "end": 0.3333333333333333,
+            "lyric": "こ",
+            "furigana": "こ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 86.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 86.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 87,
+            "end": 0.3333333333333333,
+            "lyric": "ね",
+            "furigana": "ね",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 87.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ぇ",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 87.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 88,
+            "end": 0.3333333333333333,
+            "lyric": "わ",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 88.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 88.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 89,
+            "end": 0.3333333333333333,
+            "lyric": "応",
+            "furigana": "お",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 89.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "応",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 89.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 90,
+            "end": 0.3333333333333333,
+            "lyric": "手",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 90.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "絵",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 90.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "も",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 91,
+            "end": 0.3333333333333333,
+            "lyric": "祟",
+            "furigana": "た",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 91.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "祟",
+            "furigana": "た",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 91.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 92,
+            "end": 0.3333333333333333,
+            "lyric": "よ",
+            "furigana": "よ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 92.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 92.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 93,
+            "end": 0.3333333333333333,
+            "lyric": "騙",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 93.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "騙",
+            "furigana": "た",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 93.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 94,
+            "end": 0.3333333333333333,
+            "lyric": "奴",
+            "furigana": "や",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 94.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "奴",
+            "furigana": "つ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 94.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "が",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 95,
+            "end": 0.3333333333333333,
+            "lyric": "目",
+            "furigana": "め",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 95.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "立",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 95.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "つ",
+            "furigana": "つ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 96,
+            "end": 0.3333333333333333,
+            "lyric": "だ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 96.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "け",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 96.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "偏",
+            "furigana": "か",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 97,
+            "end": 0.3333333333333333,
+            "lyric": "偏",
+            "furigana": "た",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 97.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "偏",
+            "furigana": "よ",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 97.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 98,
+            "end": 0.3333333333333333,
+            "lyric": "デ",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 98.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 98.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "タ",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 99,
+            "end": 0.3333333333333333,
+            "lyric": "頼",
+            "furigana": "た",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 99.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "頼",
+            "furigana": "よ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 99.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 100,
+            "end": 0.3333333333333333,
+            "lyric": "よ",
+            "furigana": "よ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 100.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 100.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 101,
+            "end": 0.3333333333333333,
+            "lyric": "幼",
+            "furigana": "よ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 101.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "幼",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 101.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 102,
+            "end": 0.3333333333333333,
+            "lyric": "軽",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 102.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "軽",
+            "furigana": "る",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 102.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "く",
+            "furigana": "く",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 103,
+            "end": 0.3333333333333333,
+            "lyric": "流",
+            "furigana": "な",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 103.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "流",
+            "furigana": "が",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 103.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "す",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 104,
+            "end": 0.3333333333333333,
+            "lyric": "要",
+            "furigana": "よ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 104.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "要",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 104.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 105,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "お",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 105.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "と",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 105.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "な",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 106,
+            "end": 0.3333333333333333,
+            "lyric": "だ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 106.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 106.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 107,
+            "end": 0.3333333333333333,
+            "lyric": "さ",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 107.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 107.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ど",
+            "furigana": "ど",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 108,
+            "end": 0.3333333333333333,
+            "lyric": "心",
+            "furigana": "こ",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 108.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "心",
+            "furigana": "こ",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 108.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "心",
+            "furigana": "ろ",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 109,
+            "end": 0.3333333333333333,
+            "lyric": "奥",
+            "furigana": "お",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 109.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "奥",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 109.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "底",
+            "furigana": "そ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 110,
+            "end": 0.3333333333333333,
+            "lyric": "底",
+            "furigana": "こ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 110.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 110.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "子",
+            "furigana": "こ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 111,
+            "end": 0.3333333333333333,
+            "lyric": "供",
+            "furigana": "ど",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 111.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "供",
+            "furigana": "も",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 111.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 112,
+            "end": 0.3333333333333333,
+            "lyric": "よ",
+            "furigana": "よ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 112.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 112.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 113,
+            "end": 0.3333333333333333,
+            "lyric": "カ",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 113.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ッ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 113.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 114,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 114.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 114.66666666666667,
+            "end": 0.16666666666666666,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 114.83333333333333,
+            "end": 0.16666666666666666,
+            "lyric": "膨",
+            "furigana": "ふ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 115,
+            "end": 0.16666666666666666,
+            "lyric": "膨",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 115.16666666666667,
+            "end": 0.16666666666666666,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 115.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ん",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 115.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 122,
+            "end": 0.3333333333333333,
+            "lyric": "ぐ",
+            "furigana": "ぐ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 122.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 122.66666666666667,
+            "end": 0.16666666666666666,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 122.83333333333333,
+            "end": 0.16666666666666666,
+            "lyric": "抑",
+            "furigana": "お",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 123,
+            "end": 0.3333333333333333,
+            "lyric": "抑",
+            "furigana": "さ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 123.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 123.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 124,
+            "end": 0.3333333333333333,
+            "lyric": "割",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 124.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 124.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 125,
+            "end": 0.3333333333333333,
+            "lyric": "耐",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 125.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 125.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 126,
+            "end": 0.3333333333333333,
+            "lyric": "冴",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 126.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 126.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 127,
+            "end": 0.3333333333333333,
+            "lyric": "頭",
+            "furigana": "あ",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 127.33333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "頭",
+            "furigana": "た",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 127.66666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "頭",
+            "furigana": "ま",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 128,
+            "end": 0.3333333333333333,
+            "lyric": "荒",
+            "furigana": "あ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 128.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 128.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 129,
+            "end": 0.3333333333333333,
+            "lyric": "反",
+            "furigana": "へ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 129.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "吐",
+            "furigana": "ど",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 129.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 130,
+            "end": 0.3333333333333333,
+            "lyric": "捨",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 130.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 130.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ア",
+            "furigana": "あ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 131,
+            "end": 0.3333333333333333,
+            "lyric": "カ",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 131.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 131.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "書",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 132,
+            "end": 0.3333333333333333,
+            "lyric": "こ",
+            "furigana": "こ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 132.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 132.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 134,
+            "end": 0.3333333333333333,
+            "lyric": "そ",
+            "furigana": "そ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 134.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 134.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "も",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 135,
+            "end": 0.3333333333333333,
+            "lyric": "だ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 135.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "め",
+            "furigana": "め",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 135.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 136,
+            "end": 0.3333333333333333,
+            "lyric": "垂",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 136.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 136.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 137,
+            "end": 0.3333333333333333,
+            "lyric": "文",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 137.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "文",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 137.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 138,
+            "end": 0.3333333333333333,
+            "lyric": "喉",
+            "furigana": "の",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 138.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "喉",
+            "furigana": "ど",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 138.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 139,
+            "end": 0.3333333333333333,
+            "lyric": "溺",
+            "furigana": "お",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 139.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "溺",
+            "furigana": "ぼ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 139.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 140,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 140.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "漏",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 140.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 141,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 141.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "け",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 141.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 142,
+            "end": 0.3333333333333333,
+            "lyric": "言",
+            "furigana": "こ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 142.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "言",
+            "furigana": "と",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 142.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "葉",
+            "furigana": "ば",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 143,
+            "end": 0.3333333333333333,
+            "lyric": "堪",
+            "furigana": "こ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 143.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "堪",
+            "furigana": "ら",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 143.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 144,
+            "end": 0.3333333333333333,
+            "lyric": "空",
+            "furigana": "そ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 144.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "空",
+            "furigana": "ら",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 144.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "へ",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 145,
+            "end": 0.3333333333333333,
+            "lyric": "逸",
+            "furigana": "そ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 145.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 145.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "せ",
+            "furigana": "せ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 146,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "お",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 146.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "と",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 146.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "な",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 147,
+            "end": 0.3333333333333333,
+            "lyric": "だ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 147.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 147.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 148,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 148.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 148.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "が",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 149,
+            "end": 0.3333333333333333,
+            "lyric": "温",
+            "furigana": "あ",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 149.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "温",
+            "furigana": "た",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 149.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "温",
+            "furigana": "た",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 150,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 150.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "さ",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 150.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "が",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 151,
+            "end": 0.3333333333333333,
+            "lyric": "欠",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 151.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "け",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 151.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 152,
+            "end": 0.3333333333333333,
+            "lyric": "絵",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 152.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 152.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "も",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 153,
+            "end": 0.3333333333333333,
+            "lyric": "呼",
+            "furigana": "よ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 153.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "べ",
+            "furigana": "べ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 153.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ぬ",
+            "furigana": "ぬ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 154,
+            "end": 0.3333333333333333,
+            "lyric": "バ",
+            "furigana": "ば",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 154.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "グ",
+            "furigana": "ぐ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 154.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 155,
+            "end": 0.3333333333333333,
+            "lyric": "カ",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 155.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ス",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 155.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 156,
+            "end": 0.16666666666666666,
+            "lyric": "使",
+            "furigana": "つ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 156.16666666666666,
+            "end": 0.16666666666666666,
+            "lyric": "使",
+            "furigana": "か",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 156.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 156.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 157,
+            "end": 0.3333333333333333,
+            "lyric": "脳",
+            "furigana": "の",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 157.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "脳",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 157.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "が",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 158,
+            "end": 0.3333333333333333,
+            "lyric": "欠",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 158.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "け",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 158.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 159,
+            "end": 0.3333333333333333,
+            "lyric": "馬",
+            "furigana": "ば",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 159.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "鹿",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 159.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 160,
+            "end": 0.16666666666666666,
+            "lyric": "許",
+            "furigana": "ゆ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 160.16666666666666,
+            "end": 0.16666666666666666,
+            "lyric": "許",
+            "furigana": "る",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 160.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "す",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 160.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 161,
+            "end": 0.3333333333333333,
+            "lyric": "我",
+            "furigana": "わ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 161.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "我",
+            "furigana": "れ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 161.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 162,
+            "end": 0.3333333333333333,
+            "lyric": "背",
+            "furigana": "そ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 162.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "背",
+            "furigana": "む",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 162.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "く",
+            "furigana": "く",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 163,
+            "end": 0.3333333333333333,
+            "lyric": "ユ",
+            "furigana": "ゆ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 163.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ダ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 163.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 164,
+            "end": 0.3333333333333333,
+            "lyric": "粗",
+            "furigana": "そ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 164.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "悪",
+            "furigana": "あ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 164.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "悪",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 165,
+            "end": 0.3333333333333333,
+            "lyric": "模",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 165.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "造",
+            "furigana": "ぞ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 165.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "造",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 166,
+            "end": 0.3333333333333333,
+            "lyric": "駄",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 166.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "作",
+            "furigana": "さ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 166.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "作",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 167,
+            "end": 0.3333333333333333,
+            "lyric": "豚",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 167.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "豚",
+            "furigana": "た",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 167.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 168,
+            "end": 0.3333333333333333,
+            "lyric": "皮",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 168.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "皮",
+            "furigana": "わ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 168.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "を",
+            "furigana": "を",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 169,
+            "end": 0.3333333333333333,
+            "lyric": "剥",
+            "furigana": "は",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 169.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "が",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 169.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "せ",
+            "furigana": "せ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 170,
+            "end": 0.3333333333333333,
+            "lyric": "汚",
+            "furigana": "よ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 170.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "汚",
+            "furigana": "ご",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 170.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 171,
+            "end": 0.3333333333333333,
+            "lyric": "探",
+            "furigana": "さ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 171.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "探",
+            "furigana": "が",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 171.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "せ",
+            "furigana": "せ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 172,
+            "end": 0.3333333333333333,
+            "lyric": "叩",
+            "furigana": "た",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 172.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "叩",
+            "furigana": "た",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 172.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "け",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 173,
+            "end": 0.3333333333333333,
+            "lyric": "正",
+            "furigana": "た",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 173.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "正",
+            "furigana": "だ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 173.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "せ",
+            "furigana": "せ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 174,
+            "end": 0.3333333333333333,
+            "lyric": "鬱",
+            "furigana": "う",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 174.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "鬱",
+            "furigana": "つ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 174.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 175,
+            "end": 0.3333333333333333,
+            "lyric": "潰",
+            "furigana": "つ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 175.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "潰",
+            "furigana": "ぶ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 175.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "せ",
+            "furigana": "せ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 176,
+            "end": 0.3333333333333333,
+            "lyric": "反",
+            "furigana": "は",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 176.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "反",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 176.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 177,
+            "end": 0.3333333333333333,
+            "lyric": "全",
+            "furigana": "す",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 177.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "全",
+            "furigana": "べ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 177.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 178,
+            "end": 0.6666666666666666,
+            "lyric": "悪",
+            "furigana": "あ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 178.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "悪",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 180.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "無",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 181,
+            "end": 0.3333333333333333,
+            "lyric": "難",
+            "furigana": "な",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 181.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "難",
+            "furigana": "ん",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 181.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 182,
+            "end": 0.3333333333333333,
+            "lyric": "角",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 182.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "角",
+            "furigana": "ど",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 182.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 183,
+            "end": 0.3333333333333333,
+            "lyric": "立",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 183.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 183.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ぬ",
+            "furigana": "ぬ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 184,
+            "end": 0.3333333333333333,
+            "lyric": "様",
+            "furigana": "よ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 184.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "様",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 185,
+            "end": 0.3333333333333333,
+            "lyric": "揶",
+            "furigana": "や",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 185.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "揄",
+            "furigana": "ゆ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 185.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "黙",
+            "furigana": "だ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 186,
+            "end": 0.3333333333333333,
+            "lyric": "黙",
+            "furigana": "ま",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 186.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 186.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 187,
+            "end": 0.6666666666666666,
+            "lyric": "よ",
+            "furigana": "よ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 187.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 188,
+            "end": 0.3333333333333333,
+            "lyric": "く",
+            "furigana": "く",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 188.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "育",
+            "furigana": "そ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 189,
+            "end": 0.3333333333333333,
+            "lyric": "育",
+            "furigana": "だ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 189.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 189.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 190,
+            "end": 0.3333333333333333,
+            "lyric": "ブ",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 190.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ラ",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 190.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ン",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 191,
+            "end": 0.6666666666666666,
+            "lyric": "ド",
+            "furigana": "ど",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 191.66666666666666,
+            "end": 0.6666666666666666,
+            "lyric": "を",
+            "furigana": "を",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 192.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "経",
+            "furigana": "へ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 192.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 193,
+            "end": 0.3333333333333333,
+            "lyric": "忘",
+            "furigana": "わ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 193.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "忘",
+            "furigana": "す",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 193.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 194,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 194.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 195,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 195.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "マ",
+            "furigana": "ま",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 196,
+            "end": 0.3333333333333333,
+            "lyric": "ナ",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 196.33333333333334,
+            "end": 0.6666666666666666,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 197.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 198,
+            "end": 0.3333333333333333,
+            "lyric": "け",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 198.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ぇ",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 199,
+            "end": 0.6666666666666666,
+            "lyric": "数",
+            "furigana": "か",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 199.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "数",
+            "furigana": "ず",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 200,
+            "end": 0.3333333333333333,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 201,
+            "end": 0.3333333333333333,
+            "lyric": "青",
+            "furigana": "あ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 201.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "青",
+            "furigana": "お",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 202,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 202.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ス",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 203,
+            "end": 0.3333333333333333,
+            "lyric": "タ",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 203.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ン",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 203.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "プ",
+            "furigana": "ぷ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 204,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 205,
+            "end": 0.3333333333333333,
+            "lyric": "流",
+            "furigana": "な",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 205.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "流",
+            "furigana": "が",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 205.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "さ",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 206,
+            "end": 0.6666666666666666,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 206.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 207,
+            "end": 0.3333333333333333,
+            "lyric": "絆",
+            "furigana": "ほ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 207.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "絆",
+            "furigana": "だ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 207.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "さ",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 208,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 208.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 209,
+            "end": 0.3333333333333333,
+            "lyric": "ほ",
+            "furigana": "ほ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 209.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 209.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "尖",
+            "furigana": "と",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 210,
+            "end": 0.3333333333333333,
+            "lyric": "尖",
+            "furigana": "が",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 210.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 210.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 211,
+            "end": 0.6666666666666666,
+            "lyric": "く",
+            "furigana": "く",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 212,
+            "end": 0.3333333333333333,
+            "lyric": "Ｘ",
+            "furigana": "え",
+            "index": 0,
+            "length": 4
+        },
+        {
+            "start": 212.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "Ｘ",
+            "furigana": "っ",
+            "index": 1,
+            "length": 4
+        },
+        {
+            "start": 212.66666666666666,
+            "end": 0.16666666666666666,
+            "lyric": "Ｘ",
+            "furigana": "く",
+            "index": 2,
+            "length": 4
+        },
+        {
+            "start": 212.83333333333334,
+            "end": 0.16666666666666666,
+            "lyric": "Ｘ",
+            "furigana": "す",
+            "index": 3,
+            "length": 4
+        },
+        {
+            "start": 213,
+            "end": 0.3333333333333333,
+            "lyric": "ｍｅ",
+            "furigana": "め",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 213.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ｎ",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 213.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 214,
+            "end": 0.3333333333333333,
+            "lyric": "言",
+            "furigana": "ゆ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 214.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 215,
+            "end": 0.3333333333333333,
+            "lyric": "創",
+            "furigana": "つ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 215.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "創",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 215.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 216,
+            "end": 0.3333333333333333,
+            "lyric": "ル",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 216.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 216.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "プ",
+            "furigana": "ぷ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 217,
+            "end": 0.3333333333333333,
+            "lyric": "ぶ",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 217.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 217.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "潰",
+            "furigana": "つ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 218,
+            "end": 0.6666666666666666,
+            "lyric": "潰",
+            "furigana": "ぶ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 218.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "す",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 219,
+            "end": 0.3333333333333333,
+            "lyric": "す",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 219.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ぐ",
+            "furigana": "ぐ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 219.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "揺",
+            "furigana": "ゆ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 220,
+            "end": 0.6666666666666666,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 220.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ぐ",
+            "furigana": "ぐ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 221.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "狂",
+            "furigana": "く",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 222,
+            "end": 0.6666666666666666,
+            "lyric": "狂",
+            "furigana": "る",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 222.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 223.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "傀儡",
+            "furigana": "く",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 224,
+            "end": 0.6666666666666666,
+            "lyric": "傀儡",
+            "furigana": "ぐ",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 224.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "傀儡",
+            "furigana": "つ",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 225.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ふ",
+            "furigana": "ふ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 226,
+            "end": 1,
+            "lyric": "む",
+            "furigana": "む",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 227,
+            "end": 0.6666666666666666,
+            "lyric": "ふ",
+            "furigana": "ふ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 227.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "む",
+            "furigana": "む",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 228,
+            "end": 0.6666666666666666,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 229.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "眺",
+            "furigana": "な",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 230,
+            "end": 0.6666666666666666,
+            "lyric": "眺",
+            "furigana": "が",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 230.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "め",
+            "furigana": "め",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 231.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "る",
+            "furigana": "る",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 232,
+            "end": 0.3333333333333333,
+            "lyric": "デ",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 232.33333333333334,
+            "end": 1.3333333333333333,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 233.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "タ",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 234,
+            "end": 0.6666666666666666,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 234.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "裏",
+            "furigana": "う",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 235,
+            "end": 0.3333333333333333,
+            "lyric": "裏",
+            "furigana": "ら",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 235.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "付",
+            "furigana": "づ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 235.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "け",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 236,
+            "end": 0.3333333333333333,
+            "lyric": "根",
+            "furigana": "ね",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 236.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 236.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "こ",
+            "furigana": "こ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 237,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 237.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ん",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 237.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 238,
+            "end": 0.3333333333333333,
+            "lyric": "探",
+            "furigana": "さ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 238.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "探",
+            "furigana": "が",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 238.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "さ",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 239,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 239.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "く",
+            "furigana": "く",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 239.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 240,
+            "end": 1,
+            "lyric": "も",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 241,
+            "end": 0.3333333333333333,
+            "lyric": "僕",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 241.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "僕",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 241.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 242,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "お",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 242.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "と",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 242.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "な",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 243,
+            "end": 0.3333333333333333,
+            "lyric": "だ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 243.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 243.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 244,
+            "end": 0.6666666666666666,
+            "lyric": "頬",
+            "furigana": "ほ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 244.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "頬",
+            "furigana": "お",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 245,
+            "end": 0.3333333333333333,
+            "lyric": "張",
+            "furigana": "ば",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 245.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 245.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 246,
+            "end": 0.3333333333333333,
+            "lyric": "果",
+            "furigana": "く",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 246.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "果",
+            "furigana": "だ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 246.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "物",
+            "furigana": "も",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 247,
+            "end": 0.3333333333333333,
+            "lyric": "物",
+            "furigana": "の",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 247.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "欲",
+            "furigana": "よ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 247.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "欲",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 248,
+            "end": 0.3333333333333333,
+            "lyric": "張",
+            "furigana": "ば",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 248.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 248.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 249,
+            "end": 0.3333333333333333,
+            "lyric": "明",
+            "furigana": "あ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 249.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "日",
+            "furigana": "す",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 249.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "明後日",
+            "furigana": "あ",
+            "index": 0,
+            "length": 4
+        },
+        {
+            "start": 250,
+            "end": 0.3333333333333333,
+            "lyric": "明後日",
+            "furigana": "さ",
+            "index": 1,
+            "length": 4
+        },
+        {
+            "start": 250.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "明後日",
+            "furigana": "っ",
+            "index": 2,
+            "length": 4
+        },
+        {
+            "start": 250.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "明後日",
+            "furigana": "て",
+            "index": 3,
+            "length": 4
+        },
+        {
+            "start": 251,
+            "end": 1,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 252.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "腐",
+            "furigana": "く",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 253,
+            "end": 0.3333333333333333,
+            "lyric": "腐",
+            "furigana": "さ",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 253.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 253.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 254,
+            "end": 0.3333333333333333,
+            "lyric": "ブ",
+            "furigana": "ぶ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 254.33333333333334,
+            "end": 0.3333333333333333,
+            "lyric": "ラ",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 254.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ン",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 255,
+            "end": 0.6666666666666666,
+            "lyric": "デ",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 255.66666666666666,
+            "end": 0.3333333333333333,
+            "lyric": "ー",
+            "furigana": "ー",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 256,
+            "end": 0.3333333333333333,
+            "lyric": "飲",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 256.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ん",
+            "furigana": "ん",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 256.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 257,
+            "end": 0.3333333333333333,
+            "lyric": "外",
+            "furigana": "は",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 257.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "外",
+            "furigana": "ず",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 257.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 258,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 259,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 259.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "タ",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 260,
+            "end": 1,
+            "lyric": "ガ",
+            "furigana": "が",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 261.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "酒",
+            "furigana": "さ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 262,
+            "end": 0.6666666666666666,
+            "lyric": "酒",
+            "furigana": "け",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 263.3333333333333,
+            "end": 0.16666666666666666,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 263.5,
+            "end": 0.16666666666666666,
+            "lyric": "己",
+            "furigana": "お",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 263.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "己",
+            "furigana": "の",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 264,
+            "end": 0.3333333333333333,
+            "lyric": "己",
+            "furigana": "れ",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 265,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 265.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "飲",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 266,
+            "end": 0.3333333333333333,
+            "lyric": "ま",
+            "furigana": "ま",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 267,
+            "end": 0.6666666666666666,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 267.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "て",
+            "furigana": "て",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 268,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 268.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "つ",
+            "furigana": "つ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 269,
+            "end": 0.6666666666666666,
+            "lyric": "腹",
+            "furigana": "は",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 269.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "腹",
+            "furigana": "ら",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 270,
+            "end": 0.3333333333333333,
+            "lyric": "冴",
+            "furigana": "さ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 270.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "え",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 270.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ぬ",
+            "furigana": "ぬ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 271,
+            "end": 0.3333333333333333,
+            "lyric": "頭",
+            "furigana": "あ",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 271.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "頭",
+            "furigana": "た",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 271.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "頭",
+            "furigana": "ま",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 272,
+            "end": 0.3333333333333333,
+            "lyric": "知",
+            "furigana": "ち",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 272.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "恵",
+            "furigana": "え",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 272.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "遅",
+            "furigana": "お",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 273,
+            "end": 0.3333333333333333,
+            "lyric": "遅",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 273.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "れ",
+            "furigana": "れ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 273.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 274,
+            "end": 0.3333333333333333,
+            "lyric": "ケ",
+            "furigana": "け",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 274.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ダ",
+            "furigana": "だ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 275,
+            "end": 0.3333333333333333,
+            "lyric": "モ",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 275.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "ノ",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 276.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "し",
+            "furigana": "し",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 277,
+            "end": 0.3333333333333333,
+            "lyric": "ま",
+            "furigana": "ま",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 277.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "っ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 277.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 278,
+            "end": 0.3333333333333333,
+            "lyric": "ハ",
+            "furigana": "は",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 278.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "ッ",
+            "furigana": "っ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 278.6666666666667,
+            "end": 0.16666666666666666,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 278.8333333333333,
+            "end": 0.16666666666666666,
+            "lyric": "し",
+            "furigana": "し",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 279,
+            "end": 0.3333333333333333,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 279.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 279.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "も",
+            "furigana": "も",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 280,
+            "end": 0.16666666666666666,
+            "lyric": "つ",
+            "furigana": "つ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 280.1666666666667,
+            "end": 0.16666666666666666,
+            "lyric": "か",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 280.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "の",
+            "furigana": "の",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 280.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "間",
+            "furigana": "ま",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 281,
+            "end": 0.3333333333333333,
+            "lyric": "焼",
+            "furigana": "や",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 281.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "焼",
+            "furigana": "け",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 281.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "石",
+            "furigana": "い",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 282,
+            "end": 0.6666666666666666,
+            "lyric": "石",
+            "furigana": "し",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 282.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "に",
+            "furigana": "に",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 283,
+            "end": 0.3333333333333333,
+            "lyric": "油",
+            "furigana": "あ",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 283.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "油",
+            "furigana": "ぶ",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 283.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "油",
+            "furigana": "ら",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 284,
+            "end": 0.16666666666666666,
+            "lyric": "誹",
+            "furigana": "ひ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 284.1666666666667,
+            "end": 0.16666666666666666,
+            "lyric": "謗",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 284.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "謗",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 284.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "で",
+            "furigana": "で",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 286,
+            "end": 0.3333333333333333,
+            "lyric": "ぼ",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 286.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 288,
+            "end": 0.3333333333333333,
+            "lyric": "ぼ",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 288.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "う",
+            "furigana": "う",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 289,
+            "end": 0.3333333333333333,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 290,
+            "end": 0.3333333333333333,
+            "lyric": "暴",
+            "furigana": "ぼ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 290.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "暴",
+            "furigana": "う",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 290.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "徒",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 291,
+            "end": 0.3333333333333333,
+            "lyric": "と",
+            "furigana": "と",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 291.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "化",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 291.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "し",
+            "furigana": "し",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 292,
+            "end": 0.6666666666666666,
+            "lyric": "た",
+            "furigana": "た",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 293,
+            "end": 0.3333333333333333,
+            "lyric": "火",
+            "furigana": "か",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 293.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "事",
+            "furigana": "じ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 293.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 294,
+            "end": 0.3333333333333333,
+            "lyric": "痛",
+            "furigana": "い",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 294.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "痛",
+            "furigana": "た",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 295,
+            "end": 0.6666666666666666,
+            "lyric": "い",
+            "furigana": "い",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 295.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "被",
+            "furigana": "ひ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 296,
+            "end": 0.3333333333333333,
+            "lyric": "害",
+            "furigana": "が",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 296.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "害",
+            "furigana": "い",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 296.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "以",
+            "furigana": "い",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 297,
+            "end": 0.3333333333333333,
+            "lyric": "来",
+            "furigana": "ら",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 297.3333333333333,
+            "end": 0.6666666666666666,
+            "lyric": "来",
+            "furigana": "い",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 298,
+            "end": 0.3333333333333333,
+            "lyric": "ア",
+            "furigana": "あ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 298.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "イ",
+            "furigana": "い",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 298.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "は",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 299,
+            "end": 0.3333333333333333,
+            "lyric": "無",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 299.3333333333333,
+            "end": 0.3333333333333333,
+            "lyric": "い",
+            "furigana": "い",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 299.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "お",
+            "index": 0,
+            "length": 3
+        },
+        {
+            "start": 300,
+            "end": 0.6666666666666666,
+            "lyric": "大人",
+            "furigana": "と",
+            "index": 1,
+            "length": 3
+        },
+        {
+            "start": 300.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "大人",
+            "furigana": "な",
+            "index": 2,
+            "length": 3
+        },
+        {
+            "start": 301.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 302,
+            "end": 0.3333333333333333,
+            "lyric": "ら",
+            "furigana": "ら",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 302.6666666666667,
+            "end": 0.6666666666666666,
+            "lyric": "ば",
+            "furigana": "ば",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 303.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "言",
+            "furigana": "い",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 304,
+            "end": 0.6666666666666666,
+            "lyric": "わ",
+            "furigana": "わ",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 304.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "な",
+            "furigana": "な",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 305,
+            "end": 0.3333333333333333,
+            "lyric": "い",
+            "furigana": "い",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 305.6666666666667,
+            "end": 0.3333333333333333,
+            "lyric": "お",
+            "furigana": "お",
+            "index": 0,
+            "length": 1
+        },
+        {
+            "start": 306,
+            "end": 0.6666666666666666,
+            "lyric": "約",
+            "furigana": "や",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 306.6666666666667,
+            "end": 0.6666666666666666,
+            "lyric": "約",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        },
+        {
+            "start": 307.3333333333333,
+            "end": 0.6666666666666666,
+            "lyric": "束",
+            "furigana": "そ",
+            "index": 0,
+            "length": 2
+        },
+        {
+            "start": 308,
+            "end": 1,
+            "lyric": "束",
+            "furigana": "く",
+            "index": 1,
+            "length": 2
+        }
+    ]
+}
