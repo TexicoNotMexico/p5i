@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 *.otf
-!public/NotoSansJP-Bold.otf
-!public/NotoSansJP-Medium.otf
-public/ihanaioyakusoku_lyrics.txt
-public/ihanaivo.wav
+!NotoSansJP-Bold.otf
+!NotoSansJP-Medium.otf
+ihanaioyakusoku_lyrics.txt
+ihanaivo.wav
