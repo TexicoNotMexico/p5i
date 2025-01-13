@@ -26,5 +26,8 @@ dist-ssr
 *.otf
 !NotoSansJP-Bold.otf
 !NotoSansJP-Medium.otf
-ihanaioyakusoku_lyrics.txt
-ihanaivo.wav
+public/*.txt
+public/*.wav
+!ihanaifull.wav
+public/*.json
+!data.json

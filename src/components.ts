@@ -93,6 +93,12 @@ export const draw = (item: Item, idx: number, arr: Item[], offset: number) => {
                 p.fill(constants.colors[item.pattern]);
             }
 
+            // p.strokeWeight(3);
+            // p.strokeCap(p.SQUARE);
+            // p.drawingContext.setLineDash([8, 4]);
+            // p.drawingContext.lineDashOffset = time.currentTime() * 24;
+            // p.stroke(0);
+
             p.push();
             {
                 fonts.setLyricFont();
@@ -120,6 +126,7 @@ export const draw = (item: Item, idx: number, arr: Item[], offset: number) => {
                 p.textSize(constants.canvasWidth / 12);
                 p.translate(0, -(constants.canvasWidth / 12 / 2) - 20);
                 p.scale(p.min(1, item.end / (1 / 3)), 1 / 3);
+                p.scale(1 / item.furigana.length, 1);
                 !/[\u3040-\u309F\u30A1-\u30F4\u30FC]/.test(item.lyric) && p.text(item.furigana, 0, 0);
             }
             p.pop();
