@@ -5,7 +5,7 @@ export const playToggle = () => {
     if (audio.audio.isPlaying()) {
         audio.audio.pause();
     } else {
-        audio.audio.play(0, 1, 1, 0);
+        audio.audio.play(0, 1, 0.1, 0);
     }
 };
 
