@@ -1,0 +1,5220 @@
+{
+  "notes": [
+    {
+      "start": 64,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 64.5,
+      "end": 0.5,
+      "lyric": "ガ",
+      "furigana": "ガ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 65,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 65.5,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 66,
+      "end": 1,
+      "lyric": "ク、",
+      "furigana": "ク、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 67,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 67.5,
+      "end": 0.5,
+      "lyric": "キ",
+      "furigana": "キ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 68,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 69,
+      "end": 1,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 70,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 70.5,
+      "end": 0.5,
+      "lyric": "デ",
+      "furigana": "デ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 71,
+      "end": 0.5,
+      "lyric": "デ",
+      "furigana": "デ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 71.5,
+      "end": 0.5,
+      "lyric": "モ。",
+      "furigana": "モ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 72,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 72.5,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 73,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 73.5,
+      "end": 0.5,
+      "lyric": "サ",
+      "furigana": "サ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 74,
+      "end": 1,
+      "lyric": "ガ、",
+      "furigana": "ガ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 75,
+      "end": 0.5,
+      "lyric": "ホ",
+      "furigana": "ホ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 75.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 76,
+      "end": 0.5,
+      "lyric": "グ",
+      "furigana": "グ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 76.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 77,
+      "end": 0.5,
+      "lyric": "グ",
+      "furigana": "グ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 77.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 78,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 78.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 79,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 79.5,
+      "end": 0.5,
+      "lyric": "テ。",
+      "furigana": "テ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 80,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 80.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 81,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 81.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 82,
+      "end": 1,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 83,
+      "end": 0.5,
+      "lyric": "ハ",
+      "furigana": "ハ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 83.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 84,
+      "end": 1,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 85,
+      "end": 1,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 86,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 86.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 87,
+      "end": 0.5,
+      "lyric": "ロ",
+      "furigana": "ロ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 87.5,
+      "end": 0.5,
+      "lyric": "モ。",
+      "furigana": "モ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 88,
+      "end": 0.5,
+      "lyric": "ミ",
+      "furigana": "ミ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 88.5,
+      "end": 0.5,
+      "lyric": "エ",
+      "furigana": "エ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 89,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 89.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 90,
+      "end": 1,
+      "lyric": "ワ、",
+      "furigana": "ワ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 91,
+      "end": 0.5,
+      "lyric": "ソ",
+      "furigana": "ソ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 91.5,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 92,
+      "end": 1,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 93,
+      "end": 1,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 94,
+      "end": 1,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 95,
+      "end": 1,
+      "lyric": "イ。",
+      "furigana": "イ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 96,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 96.5,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 97,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 97.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 98,
+      "end": 1,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 99,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 99.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 100,
+      "end": 1,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 101,
+      "end": 1,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 102,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 102.5,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 103,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 103.5,
+      "end": 0.5,
+      "lyric": "ク。",
+      "furigana": "ク。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 104,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 104.5,
+      "end": 0.5,
+      "lyric": "キ",
+      "furigana": "キ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 105,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 105.5,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 106,
+      "end": 1,
+      "lyric": "キ",
+      "furigana": "キ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 107,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 107.5,
+      "end": 0.5,
+      "lyric": "ニ、",
+      "furigana": "ニ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 108,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 108.5,
+      "end": 0.5,
+      "lyric": "ガ",
+      "furigana": "ガ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 109,
+      "end": 0.5,
+      "lyric": "サ",
+      "furigana": "サ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 109.5,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 110,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 110.5,
+      "end": 0.5,
+      "lyric": "ヅ",
+      "furigana": "ヅ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 111,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 111.5,
+      "end": 0.5,
+      "lyric": "テ。",
+      "furigana": "テ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 112,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 112.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 113,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 113.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 114,
+      "end": 1,
+      "lyric": "ワ、",
+      "furigana": "ワ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 115,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 115.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 116,
+      "end": 1,
+      "lyric": "リ",
+      "furigana": "リ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 117,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 118,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 118.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 119,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 119.5,
+      "end": 0.5,
+      "lyric": "ド。",
+      "furigana": "ド。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 120,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 120.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 121,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 121.5,
+      "end": 0.5,
+      "lyric": "ハ",
+      "furigana": "ハ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 122,
+      "end": 1,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 123,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 123.5,
+      "end": 0.5,
+      "lyric": "シ、",
+      "furigana": "シ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 124,
+      "end": 1,
+      "lyric": "ソ",
+      "furigana": "ソ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 125,
+      "end": 1,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 126,
+      "end": 1,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 127,
+      "end": 1,
+      "lyric": "ケ。",
+      "furigana": "ケ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 128,
+      "end": 0.5,
+      "lyric": "ユ",
+      "furigana": "ユ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 128.5,
+      "end": 0.5,
+      "lyric": "メ",
+      "furigana": "メ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 129,
+      "end": 0.5,
+      "lyric": "ミ",
+      "furigana": "ミ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 129.5,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 130,
+      "end": 1,
+      "lyric": "ル、",
+      "furigana": "ル、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 131,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 131.5,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 132,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 132.5,
+      "end": 0.5,
+      "lyric": "ミ",
+      "furigana": "ミ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 133,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 133.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 134,
+      "end": 1,
+      "lyric": "イ。",
+      "furigana": "イ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 135,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 135.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 136,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 136.5,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 137,
+      "end": 0.5,
+      "lyric": "ム",
+      "furigana": "ム",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 137.5,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 138,
+      "end": 1,
+      "lyric": "ナ、",
+      "furigana": "ナ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 139,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 139.5,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 140,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 140.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 141,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 141.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 142,
+      "end": 1,
+      "lyric": "バ。",
+      "furigana": "バ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 143,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 143.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 144,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 144.5,
+      "end": 0.5,
+      "lyric": "ム",
+      "furigana": "ム",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 145,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 145.5,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 146,
+      "end": 1,
+      "lyric": "テ、",
+      "furigana": "テ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 147,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 147.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 148,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 148.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 149,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 149.5,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 150,
+      "end": 1,
+      "lyric": "ヨ。",
+      "furigana": "ヨ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 151,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 151.5,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 152,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 152.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 153,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 153.5,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 154,
+      "end": 1,
+      "lyric": "ズ、",
+      "furigana": "ズ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 155,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 155.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 156,
+      "end": 0.5,
+      "lyric": "セ",
+      "furigana": "セ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 156.5,
+      "end": 0.5,
+      "lyric": "バ",
+      "furigana": "バ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 157,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 157.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 158,
+      "end": 1,
+      "lyric": "ノ。",
+      "furigana": "ノ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 159,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 159.5,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 160,
+      "end": 0.5,
+      "lyric": "ド",
+      "furigana": "ド",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 160.5,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 161,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 161.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 162,
+      "end": 1,
+      "lyric": "バ、",
+      "furigana": "バ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 163,
+      "end": 0.5,
+      "lyric": "ア",
+      "furigana": "ア",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 163.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 164,
+      "end": 0.5,
+      "lyric": "エ",
+      "furigana": "エ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 164.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 165,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 165.5,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 166,
+      "end": 1,
+      "lyric": "モ。",
+      "furigana": "モ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 167,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 167.5,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 168,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 168.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 169,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 169.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 170,
+      "end": 1,
+      "lyric": "ロ、",
+      "furigana": "ロ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 171,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 171.5,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 172,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 172.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 173,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 173.5,
+      "end": 0.5,
+      "lyric": "ソ",
+      "furigana": "ソ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 174,
+      "end": 1,
+      "lyric": "ラ。",
+      "furigana": "ラ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 175,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 175.5,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 176,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 176.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 177,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 177.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 178,
+      "end": 1,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 179,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 179.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 180,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 180.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 181,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 181.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 182,
+      "end": 1,
+      "lyric": "バ。",
+      "furigana": "バ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 183,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 183.5,
+      "end": 0.5,
+      "lyric": "ベ",
+      "furigana": "ベ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 184,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 184.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 185,
+      "end": 0.5,
+      "lyric": "エ",
+      "furigana": "エ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 185.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 186,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 187,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 187.5,
+      "end": 0.5,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 188,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 188.5,
+      "end": 0.5,
+      "lyric": "ロ",
+      "furigana": "ロ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 189,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 189.5,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 190,
+      "end": 1,
+      "lyric": "ル。",
+      "furigana": "ル。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 191,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 191.5,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 192,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 192.5,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 193,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 193.5,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 194,
+      "end": 1,
+      "lyric": "ニ、",
+      "furigana": "ニ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 195,
+      "end": 0.5,
+      "lyric": "ミ",
+      "furigana": "ミ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 195.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 196,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 196.5,
+      "end": 0.5,
+      "lyric": "ハ",
+      "furigana": "ハ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 197,
+      "end": 0.5,
+      "lyric": "ア",
+      "furigana": "ア",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 197.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 198,
+      "end": 1,
+      "lyric": "ノ。",
+      "furigana": "ノ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 199,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 199.5,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 200,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 200.5,
+      "end": 0.5,
+      "lyric": "セ",
+      "furigana": "セ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 201,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 201.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 202,
+      "end": 1,
+      "lyric": "ニ、",
+      "furigana": "ニ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 203,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 203.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 204,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 204.5,
+      "end": 0.5,
+      "lyric": "ハ",
+      "furigana": "ハ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 205,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 205.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 206,
+      "end": 1,
+      "lyric": "ノ。",
+      "furigana": "ノ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 207,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 207.5,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 208,
+      "end": 0.5,
+      "lyric": "セ",
+      "furigana": "セ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 208.5,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 209,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 209.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 210,
+      "end": 1,
+      "lyric": "ノ、",
+      "furigana": "ノ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 211,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 211.5,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 212,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 212.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 213,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 213.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 214,
+      "end": 1,
+      "lyric": "ノ。",
+      "furigana": "ノ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 215,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 215.5,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 216,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 216.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 217,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 217.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 218,
+      "end": 1,
+      "lyric": "モ、",
+      "furigana": "モ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 219,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 219.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 220,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 220.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 221,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 221.5,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 222,
+      "end": 1,
+      "lyric": "マ。",
+      "furigana": "マ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 223,
+      "end": 0.5,
+      "lyric": "ア",
+      "furigana": "ア",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 223.5,
+      "end": 0.5,
+      "lyric": "ユ",
+      "furigana": "ユ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 224,
+      "end": 0.5,
+      "lyric": "ム",
+      "furigana": "ム",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 224.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 225,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 225.5,
+      "end": 0.5,
+      "lyric": "サ",
+      "furigana": "サ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 226,
+      "end": 1,
+      "lyric": "エ、",
+      "furigana": "エ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 227,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 227.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 228,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 228.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 229,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 229.5,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 230,
+      "end": 1,
+      "lyric": "ヨ。",
+      "furigana": "ヨ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 231,
+      "end": 0.5,
+      "lyric": "ヒ",
+      "furigana": "ヒ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 231.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 232,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 232.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 233,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 233.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 234,
+      "end": 1,
+      "lyric": "ド、",
+      "furigana": "ド、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 235,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 235.5,
+      "end": 0.5,
+      "lyric": "リ",
+      "furigana": "リ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 236,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 236.5,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 237,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 237.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 238,
+      "end": 1,
+      "lyric": "ワ。",
+      "furigana": "ワ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 239,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 239.5,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 240,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 240.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 241,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 241.5,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 242,
+      "end": 1,
+      "lyric": "モ、",
+      "furigana": "モ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 243,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 243.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 244,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 244.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 245,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 245.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 246,
+      "end": 1,
+      "lyric": "ラ。",
+      "furigana": "ラ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 247,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 247.5,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 248,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 248.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 249,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 249.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 250,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 251,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 251.5,
+      "end": 0.5,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 252,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 252.5,
+      "end": 0.5,
+      "lyric": "ロ",
+      "furigana": "ロ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 253,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 253.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 254,
+      "end": 2,
+      "lyric": "ル。",
+      "furigana": "ル。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 288,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 288.5,
+      "end": 0.5,
+      "lyric": "ガ",
+      "furigana": "ガ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 289,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 289.5,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 290,
+      "end": 1,
+      "lyric": "ク、",
+      "furigana": "ク、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 291,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 291.5,
+      "end": 0.5,
+      "lyric": "キ",
+      "furigana": "キ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 292,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 293,
+      "end": 1,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 294,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 294.5,
+      "end": 0.5,
+      "lyric": "デ",
+      "furigana": "デ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 295,
+      "end": 0.5,
+      "lyric": "デ",
+      "furigana": "デ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 295.5,
+      "end": 0.5,
+      "lyric": "モ。",
+      "furigana": "モ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 296,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 296.5,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 297,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 297.5,
+      "end": 0.5,
+      "lyric": "サ",
+      "furigana": "サ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 298,
+      "end": 1,
+      "lyric": "ガ、",
+      "furigana": "ガ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 299,
+      "end": 0.5,
+      "lyric": "ホ",
+      "furigana": "ホ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 299.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 300,
+      "end": 0.5,
+      "lyric": "グ",
+      "furigana": "グ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 300.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 301,
+      "end": 0.5,
+      "lyric": "グ",
+      "furigana": "グ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 301.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 302,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 302.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 303,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 303.5,
+      "end": 0.5,
+      "lyric": "テ。",
+      "furigana": "テ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 304,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 304.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 305,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 305.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 306,
+      "end": 1,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 307,
+      "end": 0.5,
+      "lyric": "ハ",
+      "furigana": "ハ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 307.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 308,
+      "end": 1,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 309,
+      "end": 1,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 310,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 310.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 311,
+      "end": 0.5,
+      "lyric": "ロ",
+      "furigana": "ロ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 311.5,
+      "end": 0.5,
+      "lyric": "モ。",
+      "furigana": "モ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 312,
+      "end": 0.5,
+      "lyric": "ミ",
+      "furigana": "ミ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 312.5,
+      "end": 0.5,
+      "lyric": "エ",
+      "furigana": "エ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 313,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 313.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 314,
+      "end": 1,
+      "lyric": "ワ、",
+      "furigana": "ワ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 315,
+      "end": 0.5,
+      "lyric": "ソ",
+      "furigana": "ソ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 315.5,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 316,
+      "end": 1,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 317,
+      "end": 1,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 318,
+      "end": 1,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 319,
+      "end": 1,
+      "lyric": "イ。",
+      "furigana": "イ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 320,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 320.5,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 321,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 321.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 322,
+      "end": 1,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 323,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 323.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 324,
+      "end": 1,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 325,
+      "end": 1,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 326,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 326.5,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 327,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 327.5,
+      "end": 0.5,
+      "lyric": "ク。",
+      "furigana": "ク。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 328,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 328.5,
+      "end": 0.5,
+      "lyric": "キ",
+      "furigana": "キ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 329,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 329.5,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 330,
+      "end": 1,
+      "lyric": "キ",
+      "furigana": "キ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 331,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 331.5,
+      "end": 0.5,
+      "lyric": "ニ、",
+      "furigana": "ニ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 332,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 332.5,
+      "end": 0.5,
+      "lyric": "ガ",
+      "furigana": "ガ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 333,
+      "end": 0.5,
+      "lyric": "サ",
+      "furigana": "サ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 333.5,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 334,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 334.5,
+      "end": 0.5,
+      "lyric": "ヅ",
+      "furigana": "ヅ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 335,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 335.5,
+      "end": 0.5,
+      "lyric": "テ。",
+      "furigana": "テ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 336,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 336.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 337,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 337.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 338,
+      "end": 1,
+      "lyric": "ワ、",
+      "furigana": "ワ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 339,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 339.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 340,
+      "end": 1,
+      "lyric": "リ",
+      "furigana": "リ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 341,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 342,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 342.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 343,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 343.5,
+      "end": 0.5,
+      "lyric": "ド。",
+      "furigana": "ド。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 344,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 344.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 345,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 345.5,
+      "end": 0.5,
+      "lyric": "ハ",
+      "furigana": "ハ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 346,
+      "end": 1,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 347,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 347.5,
+      "end": 0.5,
+      "lyric": "シ、",
+      "furigana": "シ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 348,
+      "end": 1,
+      "lyric": "ソ",
+      "furigana": "ソ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 349,
+      "end": 1,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 350,
+      "end": 1,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 351,
+      "end": 1,
+      "lyric": "ケ。",
+      "furigana": "ケ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 352,
+      "end": 0.5,
+      "lyric": "ユ",
+      "furigana": "ユ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 352.5,
+      "end": 0.5,
+      "lyric": "メ",
+      "furigana": "メ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 353,
+      "end": 0.5,
+      "lyric": "ミ",
+      "furigana": "ミ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 353.5,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 354,
+      "end": 1,
+      "lyric": "ル、",
+      "furigana": "ル、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 355,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 355.5,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 356,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 356.5,
+      "end": 0.5,
+      "lyric": "ミ",
+      "furigana": "ミ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 357,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 357.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 358,
+      "end": 1,
+      "lyric": "イ。",
+      "furigana": "イ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 359,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 359.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 360,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 360.5,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 361,
+      "end": 0.5,
+      "lyric": "ム",
+      "furigana": "ム",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 361.5,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 362,
+      "end": 1,
+      "lyric": "ナ、",
+      "furigana": "ナ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 363,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 363.5,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 364,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 364.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 365,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 365.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 366,
+      "end": 1,
+      "lyric": "バ。",
+      "furigana": "バ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 367,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 367.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 368,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 368.5,
+      "end": 0.5,
+      "lyric": "ム",
+      "furigana": "ム",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 369,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 369.5,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 370,
+      "end": 1,
+      "lyric": "テ、",
+      "furigana": "テ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 371,
+      "end": 0.5,
+      "lyric": "ツ",
+      "furigana": "ツ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 371.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 372,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 372.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 373,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 373.5,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 374,
+      "end": 1,
+      "lyric": "ヨ。",
+      "furigana": "ヨ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 375,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 375.5,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 376,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 376.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 377,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 377.5,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 378,
+      "end": 1,
+      "lyric": "ズ、",
+      "furigana": "ズ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 379,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 379.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 380,
+      "end": 0.5,
+      "lyric": "セ",
+      "furigana": "セ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 380.5,
+      "end": 0.5,
+      "lyric": "バ",
+      "furigana": "バ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 381,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 381.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 382,
+      "end": 1,
+      "lyric": "ノ。",
+      "furigana": "ノ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 383,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 383.5,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 384,
+      "end": 0.5,
+      "lyric": "ド",
+      "furigana": "ド",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 384.5,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 385,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 385.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 386,
+      "end": 1,
+      "lyric": "バ、",
+      "furigana": "バ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 387,
+      "end": 0.5,
+      "lyric": "ア",
+      "furigana": "ア",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 387.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 388,
+      "end": 0.5,
+      "lyric": "エ",
+      "furigana": "エ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 388.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 389,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 389.5,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 390,
+      "end": 1,
+      "lyric": "モ。",
+      "furigana": "モ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 391,
+      "end": 0.5,
+      "lyric": "ジ",
+      "furigana": "ジ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 391.5,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 392,
+      "end": 0.5,
+      "lyric": "ン",
+      "furigana": "ン",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 392.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 393,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 393.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 394,
+      "end": 1,
+      "lyric": "ロ、",
+      "furigana": "ロ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 395,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 395.5,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 396,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 396.5,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 397,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 397.5,
+      "end": 0.5,
+      "lyric": "ソ",
+      "furigana": "ソ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 398,
+      "end": 1,
+      "lyric": "ラ。",
+      "furigana": "ラ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 399,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 399.5,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 400,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 400.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 401,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 401.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 402,
+      "end": 1,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 403,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 403.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 404,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 404.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 405,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 405.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 406,
+      "end": 1,
+      "lyric": "バ。",
+      "furigana": "バ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 407,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 407.5,
+      "end": 0.5,
+      "lyric": "ベ",
+      "furigana": "ベ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 408,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 408.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 409,
+      "end": 0.5,
+      "lyric": "エ",
+      "furigana": "エ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 409.5,
+      "end": 0.5,
+      "lyric": "ル",
+      "furigana": "ル",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 410,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 411,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 411.5,
+      "end": 0.5,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 412,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 412.5,
+      "end": 0.5,
+      "lyric": "ロ",
+      "furigana": "ロ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 413,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 413.5,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 414,
+      "end": 1,
+      "lyric": "ル。",
+      "furigana": "ル。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 415,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 415.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 416,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 416.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 417,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 417.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 418,
+      "end": 1,
+      "lyric": "バ、",
+      "furigana": "バ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 419,
+      "end": 0.5,
+      "lyric": "ウ",
+      "furigana": "ウ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 419.5,
+      "end": 0.5,
+      "lyric": "ゴ",
+      "furigana": "ゴ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 420,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 420.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 421,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 421.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 422,
+      "end": 1,
+      "lyric": "バ。",
+      "furigana": "バ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 423,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 423.5,
+      "end": 0.5,
+      "lyric": "ベ",
+      "furigana": "ベ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 424,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 424.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 425,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 425.5,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 426,
+      "end": 1,
+      "lyric": "ワ、",
+      "furigana": "ワ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 427,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 427.5,
+      "end": 0.5,
+      "lyric": "ベ",
+      "furigana": "ベ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 428,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 428.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 429,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 429.5,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 430,
+      "end": 1,
+      "lyric": "ワ。",
+      "furigana": "ワ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 431,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 431.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 432,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 432.5,
+      "end": 0.5,
+      "lyric": "ム",
+      "furigana": "ム",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 433,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 433.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 434,
+      "end": 1,
+      "lyric": "バ、",
+      "furigana": "バ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 435,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 435.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 436,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 436.5,
+      "end": 0.5,
+      "lyric": "ム",
+      "furigana": "ム",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 437,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 437.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 438,
+      "end": 1,
+      "lyric": "バ。",
+      "furigana": "バ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 439,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 439.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 440,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 440.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 441,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 441.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 442,
+      "end": 1,
+      "lyric": "ロ、",
+      "furigana": "ロ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 443,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 443.5,
+      "end": 0.5,
+      "lyric": "ロ",
+      "furigana": "ロ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 444,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 444.5,
+      "end": 0.5,
+      "lyric": "カ",
+      "furigana": "カ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 445,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 445.5,
+      "end": 0.5,
+      "lyric": "レ",
+      "furigana": "レ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 446,
+      "end": 1,
+      "lyric": "ル。",
+      "furigana": "ル。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 447,
+      "end": 0.5,
+      "lyric": "ア",
+      "furigana": "ア",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 447.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 448,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 448.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 449,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 449.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 450,
+      "end": 1,
+      "lyric": "モ、",
+      "furigana": "モ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 451,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 451.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 452,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 452.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 453,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 453.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 454,
+      "end": 1,
+      "lyric": "モ。",
+      "furigana": "モ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 455,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 455.5,
+      "end": 0.5,
+      "lyric": "ベ",
+      "furigana": "ベ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 456,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 456.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 457,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 457.5,
+      "end": 0.5,
+      "lyric": "ト",
+      "furigana": "ト",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 458,
+      "end": 1,
+      "lyric": "モ、",
+      "furigana": "モ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 459,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 459.5,
+      "end": 0.5,
+      "lyric": "ダ",
+      "furigana": "ダ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 460,
+      "end": 0.5,
+      "lyric": "シ",
+      "furigana": "シ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 460.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 461,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 461.5,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 462,
+      "end": 1,
+      "lyric": "ノ。",
+      "furigana": "ノ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 463,
+      "end": 0.5,
+      "lyric": "オ",
+      "furigana": "オ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 463.5,
+      "end": 0.5,
+      "lyric": "モ",
+      "furigana": "モ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 464,
+      "end": 0.5,
+      "lyric": "イ",
+      "furigana": "イ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 464.5,
+      "end": 0.5,
+      "lyric": "マ",
+      "furigana": "マ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 465,
+      "end": 0.5,
+      "lyric": "ブ",
+      "furigana": "ブ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 465.5,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 466,
+      "end": 1,
+      "lyric": "ヲ、",
+      "furigana": "ヲ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 467,
+      "end": 0.5,
+      "lyric": "ア",
+      "furigana": "ア",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 467.5,
+      "end": 0.5,
+      "lyric": "ケ",
+      "furigana": "ケ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 468,
+      "end": 0.5,
+      "lyric": "タ",
+      "furigana": "タ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 468.5,
+      "end": 0.5,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 469,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 469.5,
+      "end": 0.5,
+      "lyric": "ラ",
+      "furigana": "ラ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 470,
+      "end": 1,
+      "lyric": "バ。",
+      "furigana": "バ。",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 471,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 471.5,
+      "end": 0.5,
+      "lyric": "ベ",
+      "furigana": "ベ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 472,
+      "end": 0.5,
+      "lyric": "テ",
+      "furigana": "テ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 472.5,
+      "end": 0.5,
+      "lyric": "コ",
+      "furigana": "コ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 473,
+      "end": 0.5,
+      "lyric": "ワ",
+      "furigana": "ワ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 473.5,
+      "end": 0.5,
+      "lyric": "ス",
+      "furigana": "ス",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 474,
+      "end": 1,
+      "lyric": "ノ",
+      "furigana": "ノ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 475,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 475.5,
+      "end": 0.5,
+      "lyric": "ラ、",
+      "furigana": "ラ、",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 476,
+      "end": 0.5,
+      "lyric": "ク",
+      "furigana": "ク",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 476.5,
+      "end": 0.5,
+      "lyric": "ロ",
+      "furigana": "ロ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 477,
+      "end": 0.5,
+      "lyric": "ニ",
+      "furigana": "ニ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 477.5,
+      "end": 0.5,
+      "lyric": "ナ",
+      "furigana": "ナ",
+      "index": 0,
+      "length": 1
+    },
+    {
+      "start": 478,
+      "end": 2,
+      "lyric": "レ。",
+      "furigana": "レ。",
+      "index": 0,
+      "length": 1
+    }
+  ]
+}
