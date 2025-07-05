@@ -1,5 +1,4 @@
 import * as audio from "./audio";
-import * as camera from "./camera";
 
 export const playToggle = () => {
     if (audio.audio.isPlaying()) {
